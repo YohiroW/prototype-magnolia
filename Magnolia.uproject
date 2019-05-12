@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9F7B9185-4DFD-FE3E-F2F6-D6A55DC57813}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Magnolia",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
