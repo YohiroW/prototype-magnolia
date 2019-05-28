@@ -1,0 +1,5 @@
+Event	ID	Name			Wwise Object Path	Notes
+	412724365	Bgm			\Default Work Unit\Bgm	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	99454592	nin - 
