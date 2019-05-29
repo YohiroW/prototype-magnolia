@@ -15,15 +15,6 @@
 			<ObjectPath>\SoundBanks\Default Work Unit\BackgroundMusic</ObjectPath>
 			<ShortName>BackgroundMusic</ShortName>
 			<Path>BackgroundMusic.bnk</Path>
-			<IncludedEvents>
-				<Event Id="412724365" Name="Bgm" ObjectPath="\Events\Default Work Unit\Bgm"/>
-			</IncludedEvents>
-			<IncludedMemoryFiles>
-				<File Id="99454592" Language="SFX">
-					<ShortName>nin - アスノヨゾラ哨戒班.wav</ShortName>
-					<Path>SFX\nin - アスノヨゾラ哨戒班_759F681B.wem</Path>
-				</File>
-			</IncludedMemoryFiles>
 		</SoundBank>
 		<SoundBank Id="1355168291" Language="SFX">
 			<ObjectPath>Init</ObjectPath>
@@ -34,9 +25,20 @@
 			<ObjectPath>\SoundBanks\Default Work Unit\Voice</ObjectPath>
 			<ShortName>Voice</ShortName>
 			<Path>Voice.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1701367638" Name="V_MissionStart" ObjectPath="\Events\Default Work Unit\V_MissionStart"/>
+				<Event Id="412724365" Name="Bgm" ObjectPath="\Events\Default Work Unit\Bgm"/>
 			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="99454592" Language="SFX">
+					<ShortName>nin - アスノヨゾラ哨戒班.wav</ShortName>
+					<Path>SFX\nin - アスノヨゾラ哨戒班_759F681B.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>
