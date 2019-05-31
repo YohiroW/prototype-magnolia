@@ -34,9 +34,9 @@
 				<Event Id="412724365" Name="Bgm" ObjectPath="\Events\Default Work Unit\Bgm"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="99454592" Language="SFX">
-					<ShortName>nin - アスノヨゾラ哨戒班.wav</ShortName>
-					<Path>SFX\nin - アスノヨゾラ哨戒班_759F681B.wem</Path>
+				<File Id="521821661" Language="SFX">
+					<ShortName>MIDICRONICA - San Francisco.wav</ShortName>
+					<Path>SFX\MIDICRONICA - San Francisco_759F681B.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

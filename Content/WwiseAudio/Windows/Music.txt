@@ -2,4 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	412724365	Bgm			\Default Work Unit\Bgm	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	99454592	nin - 
+	521821661	Global	E:\Projects\MANDATORY\Magnolia\Wwise\Magnolia\.cache\Windows\SFX\MIDICRONICA - San Francisco_759F681B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Global		19856568
+
